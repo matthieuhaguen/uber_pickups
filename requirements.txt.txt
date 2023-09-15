@@ -1,0 +1,4 @@
+You should have the following packages installed:
+- streamlit
+- pandas
+- numpy
